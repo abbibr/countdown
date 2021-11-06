@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: rgba(5, 70, 64, 0.9);
+    color: white;
+}
+
+.container
+{
+    width: 50%;
+    margin: 15% auto;
+}
+.general
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#year
+{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(175, 90, 10);
+    font-family: sans-serif;
+}
+#text
+{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(175, 90, 10);
+    font-family: sans-serif;
+    margin-bottom: 45px;
+}
+.box
+{
+    text-align: center;
+}
+.box h4
+{
+    margin-top: 12px;
+    background: yellow;
+    color: black;
+    padding: 10px;
+    border-radius: 3px;
+    font-family: 'Segoe UI', Verdana;
+}
